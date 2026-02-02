@@ -43,5 +43,5 @@ The SHS Enrollment System provides a complete solution for managing the enrollme
 ## 🛠️ Technologies Used
 
 - **Python**  
-- **Tkinter** (for GUI)  
+- **PyQT** (for GUI)  
 - **SQLite** (for database management)
